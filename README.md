@@ -3,7 +3,7 @@
 I am mrossinek (the `m` is silent), a Linux enthusiast, who spends 99% of his
 time using a computer, in the terminal.
 
-I work on a variety of projects in various roles, such as:
+I work on a variety of projects in various roles, such as being:
 - one of the core maintainers of [Qiskit Nature](https://github.com/Qiskit/qiskit-nature)
 - one of the people behind [Neorg](https://github.com/nvim-neorg/neorg)
   (where I mostly work on the [norg syntax](https://github.com/nvim-neorg/tree-sitter-norg)
