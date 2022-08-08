@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am mrossinek (the `m` is silent), a Linux enthusiast, who spends 99% of his
-time using a computer, in the terminal.
+I am mrossinek (the `m` is soft; almost silent), a Linux enthusiast,
+who spends 99% of his time using a computer, in the terminal.
 
 I work on a variety of projects in various roles, such as being:
 - one of the core maintainers of [Qiskit Nature](https://github.com/Qiskit/qiskit-nature)
